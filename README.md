@@ -1,23 +1,24 @@
-# React with Bun runtime
+# React Bun runtime-al:
 
-## Want to use bun for your next react projects?
+## Szeretnéd használni a bun -t a következő react projektedhez?
 
 ---
 
-### Install `bun`
+### A `bun` installálása:
 
-First run the following command to check `bun` is installed or not
+Első körben ellenőrízd le, hogy a bun fut-e nálad vagy sem:
 
 ```sh
 bun -v
 ```
 
-If you don't have `bun` installed then run the following command to install `bun`
+Ha nincs a `bun` feltelepítve, akkor installáld a következő paranccsal:
 
+Linux / MacOS alatt:
 ```sh
 curl https://bun.sh/install | bash
 ```
-Or under Windows PowerShell:
+Windows alatt PowerShell-el:
 ```sh
 powershell -c "irm bun.sh/install.ps1 | iex"
 ```
