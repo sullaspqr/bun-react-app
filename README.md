@@ -17,6 +17,10 @@ If you don't have `bun` installed then run the following command to install `bun
 ```sh
 curl https://bun.sh/install | bash
 ```
+Or under Windows PowerShell:
+```sh
+powershell -c "irm bun.sh/install.ps1 | iex"
+```
 
 ### Create a react app
 
